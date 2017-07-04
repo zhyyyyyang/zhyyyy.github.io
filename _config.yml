@@ -74,7 +74,7 @@ ga_domain: https://zhyyyy.github.io/zhaohongyang.github.io
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "技术,知识，<br>随笔,感悟"
-sidebar-avatar: /img/avatar-zhy.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /zhaohongyang.github.io/img/avatar-zhy.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
