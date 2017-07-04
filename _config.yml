@@ -3,7 +3,7 @@ title: Zhy Blog
 SEOTitle: 赵宏洋的博客 | Zhy Blog
 header-img: img/home-bg.jpg
 email: macrocean@foxmail.com
-description: "关于前后台与设计、黑客与画家 | 赵宏洋 | 这里是 @Hux赵宏洋 的个人博客，与你一起发现更大的世界。"
+description: "关于java后台、大数据 | 赵宏洋 | 这里是 @Zhy赵宏洋 的个人博客，与你一起发现更大的世界。"
 keyword: "博客, 个人网站, 互联网"
 url: "https://zhyyyy.github.io/zhaohongyang.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -12,12 +12,12 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: false
-weibo_username:     yang
-zhihu_username:     yang
-github_username:    yang
-twitter_username:   yang
-#facebook_username:  huxpro
-# linkedin_username:  firstname-lastname-idxxxx
+weibo_username:     macrocean
+zhihu_username:     macrocean
+github_username:    macrocean
+twitter_username:   macrocean
+#facebook_username:
+# linkedin_username:
 
 
 
@@ -48,13 +48,13 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: yang
+disqus_username: macrocean
 
 # Netease setttings
 netease_comment: false
 
 # Duoshuo settings
-duoshuo_username: zhyblog
+duoshuo_username: macrocean
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -73,8 +73,8 @@ ga_domain: https://zhyyyy.github.io/zhaohongyang.github.io
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，<br>哈哈哈哈哈"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "想写什么写点什么，<br>反正也没人看"
+sidebar-avatar: /img/avatar-zhy.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -91,7 +91,7 @@ service-worker: true
 
 
 # Friends
-friends: [
-
-
-]
+#friends: [
+#
+#
+#]
